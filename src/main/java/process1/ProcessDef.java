@@ -8,11 +8,11 @@ public class ProcessDef {
 
 	@PostConstruct
 	public void init() {
-		System.out.println("init");
+//		System.out.println("init");
 	}
 	
 	public boolean isInitManual() {
-		return false;
+		return true;
 	}
 	
 	public boolean isSaisieManual() {
@@ -24,6 +24,6 @@ public class ProcessDef {
 	}
 	
 	public boolean isValidationManual() {
-		return true;
+		return false;
 	}
 }

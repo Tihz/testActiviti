@@ -40,3 +40,4 @@ Thumbs.db
 .bpmn/
 .settings/
 target/
+/bin
