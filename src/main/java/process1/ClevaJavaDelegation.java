@@ -27,7 +27,7 @@ public class ClevaJavaDelegation implements JavaDelegate {
 	public void execute(DelegateExecution execution) throws Exception {
 		
 
-//		System.out.println(valu.getValue(execution));
+		System.out.println(valu.getValue(execution));
 		
 	}
 
