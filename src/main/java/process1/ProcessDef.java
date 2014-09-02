@@ -12,7 +12,7 @@ public class ProcessDef {
 	}
 	
 	public boolean isInitManual() {
-		return true;
+		return false;
 	}
 	
 	public boolean isSaisieManual() {

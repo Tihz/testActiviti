@@ -38,7 +38,7 @@ public class TestProcess12 {
 //		params.put("auto_init", true);
 //		params.put("auto_saisie", false);
 		
-		for (int i=0; i<10; i++) {
+		for (int i=0; i<1000; i++) {
 			
 			runProcess("Process_12", params);
 //			runProcess("Process_11", params);
